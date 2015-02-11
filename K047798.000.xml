@@ -224,16 +224,22 @@
                <p n="16">16. The Parameter of any diameter, is a third pro<g ref="char:EOLhyphen"/>portional to that diameter and its conjugate.</p>
                <p n="17">17. The Focus is the point in the axis where the ordi<g ref="char:EOLhyphen"/>nate is equal to half the parameter. As K and L, where DK or EL is equal to the ſemi-parameter.</p>
                <p>Hence, the ellipſe and hyperbola have each two foci; but the parabola only one.</p>
-               <figure>
-                  <figDesc>diagram</figDesc>
-               </figure>
+               <p n="18">18. If DAE, FBG be two oppoſite hyperbolas having AB for their firſt or tranſverſe axis, and ab for their ſecond or
+<pb n="5" facs="tcp:1175700500:14"/>
+                  <figure>
+                     <figDesc>diagram</figDesc>
+                  </figure> conjugate axis. And if dae, fbg be two other oppoſite hyperbolas having the ſame axes, but in the contrary order, namely, ab their firſt axis, and AB their ſecond; then theſe two latter curves dae, fbg, are called the con<g ref="char:EOLhyphen"/>jugate hyperbolas to the two former DAE, FBG; and each pair of oppoſite curves mutually conjugate to the other.</p>
                <p n="19">19. And if tangents be drawn to the four vertices of the curves, or extremities of the axes, forming the in<g ref="char:EOLhyphen"/>ſcribed rectangle HIKL; the diagonals HCK, ICL of this rectangle, are called the aſymptotes of the curves.</p>
                <div type="scholium">
                   <head>SCHOLIUM.</head>
                   <p>The rectangle inſcribed between the four conjugate hyperbolas, is ſimilar to a rectangle circumſcribed about an ellipſe by drawing tangents, in like manner, to the four extremities of the two axes; and the aſymptotes or diagonals in the hyperbola, are analogous to thoſe in the ellipſe, cutting this curve in ſimilar points, and making the pair of equal conjugate diameters. Moreover, the whole figure, formed by the four hyperbolas, is, as it were, an ellipſe turned inſide out, cut open at the ex<g ref="char:EOLhyphen"/>tremities D, E, F, G, of the ſaid equal conjugate diameters, and thoſe four points drawn out to an infinite diſtance, the curvature being turned the contrary way, but the axes, and the rectangle paſſing through their extremities, continuing fixed.</p>
-                  <figure>
-                     <head>Ellipſe</head>
-                  </figure>
+                  <p>
+                     <pb n="6" facs="tcp:1175700500:15"/>
+                     <label>COROLLARY I.</label>
+                     <figure>
+                        <head>Ellipſe</head>
+                     </figure>
+                  </p>
                   <figure>
                      <head>Hyperbola.</head>
                   </figure>
@@ -513,9 +519,12 @@
                      <figDesc>diagram</figDesc>
                   </figure>
                   <p>Let EG, eg be two conjugate diameters parallel to the ſides of the parallelogram, and dividing it into four leſſer and equal parallelograms. Alſo draw the ordinates DE, de, and CK perpendicular to PQ.</p>
-                  <figure>
-                     <figDesc>diagram</figDesc>
-                  </figure>
+                  <p>
+                     <pb n="36" facs="tcp:1175700500:45"/>
+                     <figure>
+                        <figDesc>diagram</figDesc>
+                     </figure>
+                  </p>
                   <p>Then, by prop. 8, CT ∶ CA ∷ CA ∶ CD; and, by cor. 3 prop. 14, Ca ∶ de ∷ CA ∶ CD; theref. by equality, CT ∶ CA ∷ Ca ∶ de.</p>
                   <p>And by ſim. tri. CT ∶ CK ∷ Ce ∶ de, theref. by equality CK ∶ CA ∷ Ca ∶ Ce, and the rect. CK·Ce = rect. CA·Ca.</p>
                   <p>But the rect. CK·Ce = the parallelogram CEQe; theref. the rect. CA·Ca = the parallelogram CEQe; and, by doubling, the rect. AB·ab = the paral. PQRS. Q.E.D.</p>
@@ -888,9 +897,12 @@ CR<hi rend="sup">2</hi> ∶ GP<hi rend="sup">2</hi> − GH<hi rend="sup">2</hi> 
                      <figDesc>diagram</figDesc>
                   </figure>
                   <p>Let EG, eg be two conjugate diameters parallel to the ſides of the parallelogram, and dividing it into four leſſer and equal parallelograms. Alſo draw the ordinates DE, de, and CK perpendicular to PQ.</p>
-                  <figure>
-                     <figDesc>diagram</figDesc>
-                  </figure>
+                  <p>
+                     <pb n="74" facs="tcp:1175700500:83"/>
+                     <figure>
+                        <figDesc>diagram</figDesc>
+                     </figure>
+                  </p>
                   <p>Then, by prop. 8, CT ∶ CA ∷ CA ∶ CD; and, by cor. 3 prop. 14, ca ∶ de ∷ CA ∶ CD; theref. by equality, CT ∶ CA ∷ Ca ∶ de. And by ſim. tri. CT ∶ CK ∷ Ce ∶ de, theref. by equality CK ∶ CA ∷ Ca ∶ Ce, and the rect. CK·Ce = rect. CA·Ca. But the rect. CK·Ce = the parallelogram CEQE; theref. the rect. CA·Ca = the parallelogram CEQE; and, by doubling, the rect. AB·ab = the paral. PQRS. Q.E.D.</p>
                   <p>COROL. 1. The rectangles of every pair of conjugate diameters, are to one another reciprocally as the ſines of their included angles. For the areas of their parallelo<g ref="char:EOLhyphen"/>grams, which are all equal among themſelves, are equal to the rectangles of the ſides, or conjugate diameters, multiplied by the ſines of their contained angles, the radius being 1. That is, the rectangle of every two conjugate diameters, drawn into the ſine of their contained angle, is equal to the ſame conſtant quantity. And therefore the rectangle of the diameters is inverſely as the ſine of their contained angle.</p>
                </div>
@@ -1167,9 +1179,10 @@ CR<hi rend="sup">2</hi> ∶ GP<hi rend="sup">2</hi> − GH<hi rend="sup">2</hi> 
                   <p>For ſince FD = AD ∼ AF, theref. by ſquaring, FD<hi rend="sup">2</hi> = AF<hi rend="sup">2</hi> − 2AF·AD + AD<hi rend="sup">2</hi>, But, by cor. 1 prop. 1, DE<hi rend="sup">2</hi> = P·AD = 4AF·AD; theref. by addition, FD<hi rend="sup">2</hi> + DE<hi rend="sup">2</hi> = AF<hi rend="sup">2</hi> + 2AF·AD + AD<hi rend="sup">2</hi>, But, by rt. angled ▵s, FD<hi rend="sup">2</hi> + DE<hi rend="sup">2</hi> = FE<hi rend="sup">2</hi>; therefore FE<hi rend="sup">2</hi> = AF<hi rend="sup">2</hi> + 2AF·AD + AD<hi rend="sup">2</hi>, and the root or ſide is FE = AF + AD, or FE = GD, by taking AG = AF. Q.E.D.</p>
                   <p>
                      <pb n="103" facs="tcp:1175700500:112"/>COROL. 1. The difference FE − FE is always equal to DD the difference of the abſciſſes.</p>
-                  <figure>
-                     <figDesc>diagram</figDesc>
-                  </figure>
+                  <p>COROL. 2. Hence alſo the curve is eaſily deſcribed
+<figure>
+                        <figDesc>diagram</figDesc>
+                     </figure> by points. Namely, in the axis produced take AG = AF the focal diſtance, and draw a number of lines EE per<g ref="char:EOLhyphen"/>pendicular to the axis AD; then with the diſtances GD, GD, GD, &amp;c, as radii, and the centre F, draw arcs croſſing the parallel ordinates in E, E, E, &amp;c. Then draw the curve through all the points E, E, E.</p>
                </div>
                <div n="5" type="proposition">
                   <pb n="104" facs="tcp:1175700500:113"/>
